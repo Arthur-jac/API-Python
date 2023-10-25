@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Esta API em Python visa um sistema de vendas com banco de dados relacional, com as principais funcionalidades de um CRUD.
+Esta API em Python visa um sistema de vendas com banco de dados relacional(PostgreSQL), com as principais funcionalidades de um CRUD.
 
 ## Objetivo
 
